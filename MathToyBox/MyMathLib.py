@@ -1,3 +1,4 @@
+# -*- coding: UTF-8 -*-
 #MyMathLib for studying math
 
 #precision means (error < precision) = TRUE
